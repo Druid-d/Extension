@@ -1,2 +1,2 @@
 # Extension
-Уxtensions to help focus on programming
+Extensions to help focus on programming
