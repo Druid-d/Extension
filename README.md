@@ -12,8 +12,8 @@ Extension Installation:
 
 If you have suggestions for improving 
 the code or updating the filter lists, 
-please email me, preferably attaching a 
-txt file with your suggestions.
+please email me on wplacepicsel@gmail.com, preferably attaching a 
+.txt file with your suggestions.
 
 this is current version of the word filter:
 const programmingKeywords = [
